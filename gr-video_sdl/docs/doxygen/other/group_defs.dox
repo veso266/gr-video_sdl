@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio VIDEO_SDL C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the VIDEO_SDL GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
