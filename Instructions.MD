@@ -1,6 +1,6 @@
 #Prerequieremts
 Boost
-	Download Boost from here: https://deac-ams.dl.sourceforge.net/project/boost/boost-binaries/1.67.0/boost_1_67_0-msvc-14.0-64.exe
+	Download Boost from here: https://netix.dl.sourceforge.net/project/boost/boost-binaries/1.75.0/boost_1_75_0-msvc-14.2-64.exe
 	Copy from ``C:\local\boost_1_67_0\`` to ``C:\Program Files\PothosSDR\boost\``
 	
 	Set your SYSTEM VARIABLES using Rapid Enviroment Editor for example
