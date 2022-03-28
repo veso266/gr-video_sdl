@@ -6,7 +6,7 @@ Boost
 	Set your SYSTEM VARIABLES using Rapid Enviroment Editor for example
 	```
 	BOOST_INCLUDEDIR    C:\Program Files\PothosSDR\boost
-    	BOOST_LIBRARYDIR    C:\Program Files\PothosSDR\boost\lib64-msvc-14.0
+    	BOOST_LIBRARYDIR    C:\Program Files\PothosSDR\boost\lib64-msvc-14.2
     	BOOST_ROOT          C:\Program Files\PothosSDR\boost\boost
 	```
 SDL1.2
