@@ -1115,7 +1115,7 @@ git clone https://github.com/robinrowe/libunistd.git
 
 edit your main CMakeLists.txt and add under include this
 ```
-${CMAKE_SOURCE_DIR}/libunistd/windows/unistd
+${CMAKE_SOURCE_DIR}/windows/libunistd/unistd
 ```
 so your include looks something like this
 ```
@@ -1130,7 +1130,7 @@ include_directories(
     ${Boost_INCLUDE_DIRS}
     ${CPPUNIT_INCLUDE_DIRS}
     ${GNURADIO_ALL_INCLUDE_DIRS}
-	${CMAKE_SOURCE_DIR}/libunistd/windows/unistd
+	${CMAKE_SOURCE_DIR}/windows/libunistd/unistd
 )
 ```
 
