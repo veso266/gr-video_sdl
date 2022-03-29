@@ -169,7 +169,7 @@ include_directories(
     ${Boost_INCLUDE_DIRS}
     ${CPPUNIT_INCLUDE_DIRS}
     ${GNURADIO_ALL_INCLUDE_DIRS}
-	${CMAKE_SOURCE_DIR}/libunistd/windows/unistd
+	${CMAKE_SOURCE_DIR}/windows/libunistd/unistd
 )
 
 link_directories(
